@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a current IT student, looking forward to learn 💯 
+I'm looking for help with back-end development.
 
 <!--
 **YSTHA/YSTHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

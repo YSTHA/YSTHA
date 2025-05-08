@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm a current IT student, looking forward to learn 💯 
+
+Cybersecurity enthusiast, passionate about risk management and security compliance. Currently exploring automation and cloud security.I'm a current IT student, looking forward to learn 💯 
 I'm looking for help with back-end development.
 
 <!--

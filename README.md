@@ -1,6 +1,11 @@
 # 💫 About Me:
 - 🔭 I’m currently working on cybersecurity certifications<br>- 🌱 I’m currently learning: SQL<br>- 📫 How to reach me: Yukstha265@gmail.com<br>- ⚡ A writer stuck inside the body of a corporate girl
 
+ ## 💼 Currently Open To:
+- 🔹 Analyst internships or graduate roles  
+- 🔹 Collaborative data projects  
+- 🔹 Mentorship and learning opportunities 
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Say_Seez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yuksha_Shrestha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Yukstha265@gmail.com) 

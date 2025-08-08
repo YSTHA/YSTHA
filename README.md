@@ -12,7 +12,7 @@
 
 
 # 💻 Tech Stack
-(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,firebase,git,js,md,mysql,nestjs,nextjs,obsidian,php,postgres,postman,tailwind,ts)](https://skillicons.dev)
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on cybersecurity certifications<br>- 🌱 I’m currently learning: SQL<br>- 📫 How to reach me: Yukstha265@gmail.com<br>- ⚡ A writer stuck inside the body of a corporate girl
+🔭 I’m currently working on cybersecurity certifications<br> 🌱 I’m currently learning: SQL<br> 📫 How to reach me: Yukstha265@gmail.com<br> ⚡ A writer stuck inside the body of a corporate girl
 
  ## 💼 Currently Open To:
 🔹 Analyst internships or graduate roles  

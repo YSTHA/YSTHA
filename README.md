@@ -1,10 +1,10 @@
 # 💫 About Me:
-- 🔭 I’m currently working on cybersecurity certifications<br>- 🌱 I’m currently learning: SQL<br>- 📫 How to reach me: Yukstha265@gmail.com<br>- ⚡ A writer stuck inside the body of a corporate girl
+🔭 I’m currently working on cybersecurity certifications<br>- 🌱 I’m currently learning: SQL<br>- 📫 How to reach me: Yukstha265@gmail.com<br>- ⚡ A writer stuck inside the body of a corporate girl
 
  ## 💼 Currently Open To:
-- 🔹 Analyst internships or graduate roles  
-- 🔹 Collaborative data projects  
-- 🔹 Mentorship and learning opportunities 
+🔹 Analyst internships or graduate roles  
+  🔹 Collaborative data projects  
+  🔹 Mentorship and learning opportunities 
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 
 
 # 💻 Tech Stack
-
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />

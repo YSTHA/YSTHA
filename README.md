@@ -12,7 +12,7 @@
 
 
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,figma,html,mysql,linux,canva )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,figma,html,mysql,linux,postgres,)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
@@ -21,7 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YSTHA&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YSTHA&theme=cobalt2&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=YSTHA&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

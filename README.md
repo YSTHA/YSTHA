@@ -3,8 +3,8 @@
 
  ## 💼 Currently Open To:
 🔹 Analyst internships or graduate roles  
-  🔹 Collaborative data projects  
-  🔹 Mentorship and learning opportunities 
+🔹 Collaborative data projects  
+🔹 Mentorship and learning opportunities 
 
 
 ## 🌐 Socials:
@@ -12,19 +12,8 @@
 
 
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=c,firebase,git,js,md,mysql,nestjs,nextjs,obsidian,php,postgres,postman,tailwind,ts)](https://skillicons.dev)
-<p align="left">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/-Cisco-049FD9?style=flat-square&logo=cisco&logoColor=black" alt="Cisco" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,figma,html,mysql,linux,canva )](https://skillicons.dev)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YSTHA&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false)<br/>
